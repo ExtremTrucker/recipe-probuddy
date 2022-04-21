@@ -1,0 +1,12 @@
+{
+  "id": "probuddy",
+  "name": "probuddy",
+  "version": "1.0.0",
+  "description": "probuddy",
+  "main": "index.js",
+  "author": "Malte Block <extrem.trucker@gmx.de>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.probuddy.de/#/home"
+  }
+}
